@@ -1,0 +1,58 @@
+body {
+    background-color: antiquewhite;
+    padding-left: 20px;
+}
+
+h1, 
+h2 {
+    font-size: 46px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe-header {
+    font-size: 26px;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+ul,
+ol,
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.recipe-links li {
+    padding-bottom: 30px;
+    font-size: 22px;
+}
+
+.method {
+    margin-bottom: 50px;
+}
+
+.method li {
+    line-height: 30px;
+}
+
+.method li,
+.ingredients li {
+    padding-bottom: 20px;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+footer p {   
+    padding-bottom: 0;
+}
